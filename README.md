@@ -82,6 +82,9 @@ jupyter notebook your_notebook_name.ipynb
 * Add `sns.clustermap()` to hierarchically group correlated feature clusters.
 * Compute **Variance Inflation Factor (VIF)** scores to formally quantify multicollinearity across all predictors.
 * Build baseline regression models (OLS, Ridge, Lasso) to compare coefficient stability before and after handling correlated features.
+<img width="596" height="487" alt="image" src="https://github.com/user-attachments/assets/ca394ce9-a1fe-45cd-84eb-0809cecaecf2" />
+<img width="983" height="667" alt="image" src="https://github.com/user-attachments/assets/c04e439f-2c44-4982-bc3b-f0ab3041838f" />
+
 
 
 
